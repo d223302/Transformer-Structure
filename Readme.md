@@ -1,6 +1,7 @@
 This repo contain scripts to run all pre-training and fine-tuning experiments for our papaer:
 On the Transferability of Pre-trained Language Models: A Study from Artificial Datasets
-
+The **TEMPORARY** AAAI pre-print version is [here](https://www.aaai.org/AAAI22Papers/AAAI-6372.ChiangC.pdf), and the arxiv pre-print version is available [here](https://arxiv.org/abs/2109.03537).
+The arxiv version contains the appendix section that is not included in the AAAI 2022 version.
 
 ## Installation
 We use pytorch and the huggingface transformers to complete our experiments.
