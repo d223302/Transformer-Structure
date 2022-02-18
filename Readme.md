@@ -88,7 +88,7 @@ The available models will be those models you pre-trained. The names are the sam
 We've already wrap up all data you need to use in `glue_data`, so you don't need to download the data yourselves.
 You don't need to download the dataset for GLUE since huggingfaces will download them for you.
 
-## Analysis: j^\* distriubution
+## Analysis: j<sup>\*</sup> distriubution
 The code for this part is in `Transformer-Structure/Analysis`
 Once you pre-trained the models, you can run `run_observe.sh`.
 Remember to modify the paths in that file.
